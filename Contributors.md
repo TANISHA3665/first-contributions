@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Audie Mendaros](https://github.com/taroken6)
 - [Will Guo]
 -[Tommy Deliso](https://github.com/tdeliso)
@@ -2213,6 +2213,7 @@ Keshav goel
 - [Omotola Shogunle](https://github.com/Omotola28)
 - [Ekansh Bhatnagar](https://github.com/EkanshBhatnagar)
 - [Pranav Kulkarni](https://github.com/freakcap)
+- [Tanisha Jaiswal](https://github.com/TANISHA3665)
 - [Ohad Nir](https://github.com/OhadNir9)
 - [Sharoz Tanveer 🚀🇵🇰](https://github.com/ShahrozTanveer)
 - [Emman Toomey](https://github.com/Mannystar)
